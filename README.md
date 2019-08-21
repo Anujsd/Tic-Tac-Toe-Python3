@@ -8,11 +8,11 @@ You can run this game easily by typing following command.
 
 In windows
 ```bash
-python Tic-Tac-Toe.py 
+python TicTacToe.py 
 ```
 
 In other operating systems
 ```bash
-python3 Tic-Tac-Toe.py
+python3 TicTacToe.py
 ```
 
